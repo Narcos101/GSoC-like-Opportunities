@@ -4,7 +4,7 @@ List of programs comparable to GSoC or better than that
 I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become futile! I'll make sure that any such modification in the README.md raised as an issue or submitted as a pull request be timely reviewed and added.
 
 ps : I don't consider Girl Script Summer of Code, Winter of Code, LGMSOC, etc comparable to GSoC so refrain raising PRs for that 😅
-Although I am not critising those programs, feel free to take part in them, this list has a limited scope of programs on par with GSoC or better than that.
+Although I am not critising those programs, feel free to take part in them, this list has a limited scope to add programs on par with GSoC or better than that.
 
 Pls correct any outdated/misinfo via PRs
 
